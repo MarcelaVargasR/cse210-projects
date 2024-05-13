@@ -5,47 +5,7 @@ class Program
     static void Main(string[] args)
     {
         Journal journal = new Journal();
-        // 1 show the menu
 
-
-
-        // 2 get the input of the user = readLine
-        // string answer = Console.ReadLine();
-        // int answerUser = int.Parse(answer);
-
-        // Validated the input and show the section
-
-        // if (answerUser == 1)
-        // {
-        //     Console.WriteLine("Write");
-        // }
-        // else if (answerUser == 2)
-        // {
-        //     Console.WriteLine("Display");
-        // }
-        // else if (answerUser == 3)
-        // {
-        //     Console.WriteLine("Load");
-        // }
-        // else if (answerUser == 4)
-        // {
-        //     Console.WriteLine("Save");
-        // }
-        // else if (answerUser == 5)
-        // {
-        //     Console.WriteLine("Quit");
-        // }
-        // else
-        // {
-        //     Console.WriteLine("Try again");
-
-        // }
-
-        // while and quit until the input is 5
-
-        // string answer = Console.ReadLine();
-        // int answerUser = int.Parse(answer);
-        // int quit = 5;
         bool keepRunning = true;
 
         Console.WriteLine("Welcome to the Journal Program!");
