@@ -1,0 +1,3 @@
+0
+SimpleGoal:drink water,drink water,40,False
+SimpleGoal:eat healthy,eat healthy,50,False
